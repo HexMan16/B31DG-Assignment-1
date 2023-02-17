@@ -12,7 +12,7 @@
 
 const int buttonPin1 = 2; 
 const int buttonPin2 = 4;
-const int ledPin1_SigA = 13;   
+const int ledPin1_SigA = 13;   //poo
 const int ledPin2_SigB = 12;
 
 // variables will change:
