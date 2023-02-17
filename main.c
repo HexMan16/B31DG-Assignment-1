@@ -66,5 +66,5 @@ digitalWrite(ledPin2_SigB, LOW);
  delay(d);
   
 
-
+// added correct pin definitions
 }
